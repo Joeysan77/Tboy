@@ -1,1 +1,5 @@
 /* Add all your styles here */
+img {
+  width:100%;
+  position:fixed;
+}
